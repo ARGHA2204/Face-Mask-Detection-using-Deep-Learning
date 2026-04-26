@@ -1,0 +1,11 @@
+⚠️ Model File Notice
+
+The trained model file (`face_mask_model.h5`) is not included in this repository due to GitHub file size limitations.
+
+To generate the model:
+
+1. Open the provided notebook (`notebooks/face_mask_detection.ipynb`)
+2. Run all cells
+3. The model will be trained and saved automatically
+
+Alternatively, a compressed/lightweight version of the model (`.tflite`) may be provided.
